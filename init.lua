@@ -11,6 +11,7 @@ local function loadtable(file)
    for line in io.lines(file) do
       local sp = {}
       for value, wep in string.gmatch(line, '(%w+) (.+)') do
+         --print(tonumber(value, 16))
          t[tonumber(value, 16)] = wep
       end
    end
@@ -28,7 +29,8 @@ local init = function()
                             return v
                          end
                       end
-                      return string.format("[%.6X]", bit.bswap(bit.lshift(key, 8)))
+                      --return string.format("[%.6X]", bit.bswap(bit.lshift(key, 8)))
+                      return string.format("[%.6X]", key, 8)
                    end})
    techlist = loadtable(techfile)
    speciallist = loadtable(specialfile)
@@ -133,10 +135,11 @@ local function scanfloor()
       for item = 0, MAXITEMS do
          local offset = floorptr + AREASTEP*area + ITEMSTEP*item
          
-         local itemid = bit.band(pso.read_u32(offset), 0x00FFFFFF)
+         local itemid = bit.rshift(bit.bswap(pso.read_u32(offset)), 8)
          if itemid == 0 then
             break
          end
+         print(string.format("itemid: %.6X %d", itemid, itemid))
          --imgui.Text(string.format("iid: 0x%X", itemid))
          --imgui.Text(string.format("?: %X %s", wep, itemlist[wep]))
          if itemlist[itemid] ~= nil then
@@ -145,6 +148,7 @@ local function scanfloor()
             --setmetatable(itembuf, ITEMCMPMETA)
             pso.read_mem(itembuf, offset, ITEMSIZE)
             --imgui.Text("b: " .. tostring(array_to_string(itembuf)))
+            print(tostring(array_to_string(itembuf)))
             --table.insert(drops, itembuf)
             --print(string.format("%d %d"))
             if drops[itembuf] ~= nil then
@@ -170,7 +174,7 @@ end
 
 
 local function wepstring(item)
-   local wepid = item[3] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[1]
+   local wepid = item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
    --imgui.Text(string.format("wid: 0x%X", wepid))
 
    local native = 0
@@ -214,7 +218,7 @@ local function wepstring(item)
 end
 
 local function armorstring(item)
-   local armorid = item[3] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[1]
+   local armorid = item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
    local slots = item[6]
    local dfp = item[7]
    local evp = item[9]
@@ -224,7 +228,7 @@ end
 
 
 local function shieldstring(item)
-   local shieldid = item[3] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[1]
+   local shieldid = item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
    local dfp = item[7]
    local evp = item[9]
 
@@ -232,7 +236,7 @@ local function shieldstring(item)
 end
 
 local function miscstring(item)
-   local miscid = item[3] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[1]
+   local miscid = item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
 
    if item[6] > 0 then
       return string.format("%s x%d", itemlist[miscid], item[6])
@@ -242,12 +246,12 @@ end
 
 -- TODO!
 local function magstring(item)
-   local magid = item[3] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[1]
+   local magid = item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
    return itemlist[magid]
 end
 
 local function techstring(item)
-   local level = item[3]+1
+   local level = item[1]+1
    local techid = item[5]
 
    return string.format("%s %d", techlist[techid], level)
@@ -290,7 +294,7 @@ local present = function()
    end
 
    -- dont need to do this every frame
-   if itercount % 30 == 0 then
+   if itercount % 60 == 0 then
       for i,drop in ipairs(scanfloor()) do
          table.insert(droplist, drop)
       end
