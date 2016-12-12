@@ -173,8 +173,16 @@ local function scanfloor()
 end
 
 
+local function getid(item)
+   local i1 = item[1]
+   local i2 = item[2]
+   local i3 = item[3]
+   --return item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
+   return i1 * math.pow(2, 16) + i2 * math.pow(2, 8) + i3
+end
+
 local function wepstring(item)
-   local wepid = item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
+   local wepid = getid(item)
    --imgui.Text(string.format("wid: 0x%X", wepid))
 
    local native = 0
@@ -218,7 +226,7 @@ local function wepstring(item)
 end
 
 local function armorstring(item)
-   local armorid = item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
+   local armorid = getid(item)
    local slots = item[6]
    local dfp = item[7]
    local evp = item[9]
@@ -228,7 +236,7 @@ end
 
 
 local function shieldstring(item)
-   local shieldid = item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
+   local shieldid = getid(item)
    local dfp = item[7]
    local evp = item[9]
 
@@ -236,7 +244,7 @@ local function shieldstring(item)
 end
 
 local function miscstring(item)
-   local miscid = item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
+   local miscid = getid(item)
 
    if item[6] > 0 then
       return string.format("%s x%d", itemlist[miscid], item[6])
@@ -246,7 +254,7 @@ end
 
 -- TODO!
 local function magstring(item)
-   local magid = item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
+   local magid = getid(item)
    return itemlist[magid]
 end
 
