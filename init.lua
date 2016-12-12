@@ -34,7 +34,7 @@ local init = function()
    speciallist = loadtable(specialfile)
    return {
       name = "DropChecker",
-      version = "r2",
+      version = "r3",
       author = "jake"
    }
 end
@@ -56,54 +56,6 @@ local function array_to_string(t)
   end
   return buf .. " }"
 end
-
-function printtable(table, indent)
-  indent = indent or 0;
-
-  local keys = {};
-
-  for k in pairs(table) do
-    keys[#keys+1] = k;
-    --table.sort(keys, function(a, b)
-    --  local ta, tb = type(a), type(b);
-    --  if (ta ~= tb) then
-    --    return ta < tb;
-    --  else
-    --    return a < b;
-    --  end
-    --end);
-  end
-
-  print(string.rep('  ', indent)..'{');
-  indent = indent + 1;
-  for k, v in pairs(table) do
-
-    local key = k;
-    if (type(key) == 'string') then
-      if not (string.match(key, '^[A-Za-z_][0-9A-Za-z_]*$')) then
-        key = "['"..key.."']";
-      end
-    elseif (type(key) == 'number') then
-      key = "["..key.."]";
-    end
-
-    if (type(v) == 'table') then
-      if (next(v)) then
-         print(string.format(string.format("%s%s =", string.rep('  ', indent), tostring(key))))
-        printtable(v, indent);
-      else
-         print(string.format("%s%s = {},", string.rep('  ', indent), tostring(key)))
-      end 
-    elseif (type(v) == 'string') then
-       print(string.format("%s%s = %s,", string.rep('  ', indent), tostring(key), "'"..v.."'"))
-    else
-       print(string.format("%s%s = %s,", string.rep('  ', indent), tostring(key), tostring(v)))
-    end
-  end
-  indent = indent - 1;
-  print(string.rep('  ', indent)..'}');
-end
-
 
 -- kinda ghetto, but good enough?
 function arrays_eq(a, b)
@@ -329,8 +281,6 @@ local itercount = 0
 
 local present = function()
    imgui.Begin("Drop Checker")
-   --imgui.Begin(string.format("Drop Checker %d %d", imgui.GetScrollY(), imgui.GetScrollMaxY()))
-   --imgui.Fonts.AddFontFromFileTTF("font/ipagui.ttf")
 
    local sy = imgui.GetScrollY()
    local sym = imgui.GetScrollMaxY()
