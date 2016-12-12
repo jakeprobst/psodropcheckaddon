@@ -340,7 +340,7 @@ local present = function()
    end
 
    -- dont need to do this every frame
-   if itercount % 60 == 0 then
+   if itercount % 30 == 0 then
       for i,drop in ipairs(scanfloor()) do
          table.insert(droplist, drop)
       end
