@@ -1,0 +1,1516 @@
+000100 Saber
+010100 Brand
+020100 Buster
+030100 Pallasch
+040100 Gladius
+050100 DB's Saber
+060100 Kaladbolg
+070100 Durandal
+080100 Galatine
+000200 Sword
+010200 Gigush
+020200 Breaker
+030200 Claymore
+040200 Calibur
+050200 Flowen's Sword
+060200 Last Survivor
+070200 Dragon Slayer
+000300 Dagger
+010300 Knife
+020300 Blade
+030300 Edge
+040300 Ripper
+050300 Blade Dance
+060300 Bloody Art
+070300 Cross Scar
+080300 Zero Divide
+090300 Two Kamui
+000400 Partisan
+010400 Halbert
+020400 Glaive
+030400 Berdys
+040400 Gungnir
+050400 Brionac
+060400 Vjaya
+070400 Gae Bolg
+080400 Asteron Belt
+000500 Slicer
+010500 Spinner
+020500 Cutter
+030500 Sawcer
+040500 Diska
+050500 Slicer of Assassin
+060500 Diska of Liberator
+070500 Diska of Braveman
+080500 Izmaela
+000600 Handgun
+010600 Autogun
+020600 Lockgun
+030600 Railgun
+040600 Raygun
+050600 Varista
+060600 Custom Ray ver.OO
+070600 Bravace
+080600 Tension Blaster
+000700 Rifle
+010700 Sniper
+020700 Blaster
+030700 Beam
+040700 Laser
+050700 Visk-235W
+060700 Wals-MK2
+070700 Justy-23ST
+080700 Rianov 303SNR
+090700 Rianov 303SNR-1
+0A0700 Rianov 303SNR-2
+0B0700 Rianov 303SNR-3
+0C0700 Rianov 303SNR-4
+0D0700 Rianov 303SNR-5
+000800 Mechgun
+010800 Assault
+020800 Repeater
+030800 Gatling
+040800 Vulcan
+050800 M&A60 Vise
+060800 H&S25 Justice
+070800 L&K14 Combat
+000900 Shot
+010900 Spread
+020900 Cannon
+030900 Launcher
+040900 Arms
+050900 Crush Bullet
+060900 Meteor Smash
+070900 Final Impact
+000A00 Cane
+010A00 Stick
+020A00 Mace
+030A00 Club
+040A00 Club of Laconium
+050A00 Mace of Adaman
+060A00 Club of Zumiuran
+070A00 Lollipop
+000B00 Rod
+010B00 Pole
+020B00 Pillar
+030B00 Striker
+040B00 Battle Verge
+050B00 Brave Hammer
+060B00 Alive Aqhu
+070B00 Valkyrie
+000C00 Wand
+010C00 Staff
+020C00 Baton
+030C00 Scepter
+040C00 Fire Scepter: Agni
+050C00 Ice Staff: Dagon
+060C00 Storm Wand: Indra
+070C00 Earth Wand: Brownie
+000D00 Photon Claw
+010D00 Silence Claw
+020D00 Nei's Claw
+030D00 Phoenix Claw
+000E00 Double Saber
+010E00 Stag Cutlery
+020E00 Twin Brand
+000F00 Brave Knuckle
+010F00 Angry Fist
+020F00 God Hand
+030F00 Sonic Knuckle
+040F00 Star Song
+001000 Orotiagito
+011000 Agito
+021000 Agito
+031000 Agito
+041000 Agito
+051000 Agito
+061000 Agito
+071000 Raikiri
+001100 Soul Eater
+011100 Soul Banish
+001200 Spread Needle
+001300 Holy Ray
+001400 Inferno Bazooka
+011400 Rambling May
+021400 L&K38 Combat
+001500 Flame Visit
+011500 Burning Visit
+001600 Akiko's Frying Pan
+001700 Sorcerer's Cane
+001800 S-Beat's Blade
+001900 P-Arms' Blade
+001A00 Delsaber's Buster
+001B00 Bringer's Rifle
+001C00 Egg Blaster
+001D00 Psycho Wand
+001E00 Heaven Punisher
+001F00 Lavis Cannon
+002000 Victor Axe
+012000 Laconium Axe
+002100 Chain Sawd
+002200 Caduceus
+012200 Mercurius Rod
+002300 Sting Tip
+002400 Magical Piece
+002500 Technical Crozier
+002600 Suppressed Gun
+002700 Ancient Saber
+002800 Harisen Battle Fan
+002900 Yamigarasu
+002A00 Akiko's Wok
+002B00 Toy Hammer
+002C00 Elysion
+002D00 Red Saber
+002E00 Meteor Cudgel
+002F00 Monkey King Bar
+012F00 Black King Bar
+003000 Double Cannon
+013000 Girasole
+003100 Huge Battle Fan
+003200 Tsumikiri J-Sword
+003300 Sealed J-Sword
+003400 Red Sword
+003500 Crazy Tune
+003600 Twin Chakram
+003700 Wok of Akiko's Shop
+003800 Lavis Blade
+003900 Red Dagger
+003A00 Madam's Parasol
+003B00 Madam's Umbrella
+003C00 Imperial Pick
+003D00 Berdysh
+003E00 Red Partisan
+003F00 Flight Cutter
+004000 Flight Fan
+004100 Red Slicer
+004200 Handgun: Guld
+014200 Master Raven
+004300 Handgun: Milla
+014300 Last Swan
+004400 Red Handgun
+004500 Frozen Shooter
+014500 Snow Queen
+004600 Anti Android Rifle
+004700 Rocket Punch
+004800 Samba Maracas
+004900 Twin Psychogun
+004A00 Drill Launcher
+004B00 Guld Milla
+014B00 Dual Bird
+004C00 Red Mechgun
+004D00 Belra Cannon
+004E00 Panzer Faust
+014E00 Iron Faust
+004F00 Summit Moon
+005000 Windmill
+005100 Evil Curst
+005200 Flower Cane
+005300 Hildebear's Cane
+005400 Hildeblue's Cane
+005500 Rabbit Wand
+005600 Plantain Leaf
+015600 Fatsia
+005700 Demonic Fork
+005800 Striker of Chao
+005900 Broom
+005A00 Prophets of Motav
+005B00 The Sigh of a God
+005C00 Twinkle Star
+005D00 Plantain Fan
+005E00 Twin Blaze
+005F00 Marina's Bag
+006000 Dragon's Claw
+006100 Panther's Claw
+006200 S-Red's Blade
+006300 Plantain Huge Fan
+006400 Chameleon Scythe
+006500 Yasminkov 3000R
+006600 Ano Rifle
+006700 Baranz Launcher
+006800 Branch of Pakupaku
+006900 Heart of Poumn
+006A00 Yasminkov 2000H
+006B00 Yasminkov 7000V
+006C00 Yasminkov 9000M
+006D00 Maser Beam
+016D00 Power Maser
+006E00 Game Magazine
+016E00 LOGiN
+006F00 Flower Bouquet
+007000 Saber
+017000 Saber
+027000 Saber
+037000 Saber
+047000 Saber
+057000 Saber
+067000 Saber
+077000 Saber
+087000 Saber
+097000 Saber
+0A7000 Saber
+0B7000 Saber
+0C7000 Saber
+0D7000 Saber
+0E7000 Saber
+0F7000 Saber
+107000 Saber
+007100 Sword
+017100 Sword
+027100 Sword
+037100 Sword
+047100 Sword
+057100 Sword
+067100 Sword
+077100 Sword
+087100 Sword
+097100 Sword
+0A7100 Sword
+0B7100 Sword
+0C7100 Sword
+0D7100 Sword
+0E7100 Sword
+0F7100 Sword
+107100 Sword
+007200 Blade
+017200 Blade
+027200 Blade
+037200 Blade
+047200 Blade
+057200 Blade
+067200 Blade
+077200 Blade
+087200 Blade
+097200 Blade
+0A7200 Blade
+0B7200 Blade
+0C7200 Blade
+0D7200 Blade
+0E7200 Blade
+0F7200 Blade
+107200 Blade
+007300 Partisan
+017300 Partisan
+027300 Partisan
+037300 Partisan
+047300 Partisan
+057300 Partisan
+067300 Partisan
+077300 Partisan
+087300 Partisan
+097300 Partisan
+0A7300 Partisan
+0B7300 Partisan
+0C7300 Partisan
+0D7300 Partisan
+0E7300 Partisan
+0F7300 Partisan
+107300 Partisan
+007400 Slicer
+017400 Slicer
+027400 Slicer
+037400 Slicer
+047400 Slicer
+057400 Slicer
+067400 Slicer
+077400 Slicer
+087400 Slicer
+097400 Slicer
+0A7400 Slicer
+0B7400 Slicer
+0C7400 Slicer
+0D7400 Slicer
+0E7400 Slicer
+0F7400 Slicer
+107400 Slicer
+007500 Gun
+017500 Gun
+027500 Gun
+037500 Gun
+047500 Gun
+057500 Gun
+067500 Gun
+077500 Gun
+087500 Gun
+097500 Gun
+0A7500 Gun
+0B7500 Gun
+0C7500 Gun
+0D7500 Gun
+0E7500 Gun
+0F7500 Gun
+107500 Gun
+007600 Rifle
+017600 Rifle
+027600 Rifle
+037600 Rifle
+047600 Rifle
+057600 Rifle
+067600 Rifle
+077600 Rifle
+087600 Rifle
+097600 Rifle
+0A7600 Rifle
+0B7600 Rifle
+0C7600 Rifle
+0D7600 Rifle
+0E7600 Rifle
+0F7600 Rifle
+107600 Rifle
+007700 Mechgun
+017700 Mechgun
+027700 Mechgun
+037700 Mechgun
+047700 Mechgun
+057700 Mechgun
+067700 Mechgun
+077700 Mechgun
+087700 Mechgun
+097700 Mechgun
+0A7700 Mechgun
+0B7700 Mechgun
+0C7700 Mechgun
+0D7700 Mechgun
+0E7700 Mechgun
+0F7700 Mechgun
+107700 Mechgun
+007800 Shot
+017800 Shot
+027800 Shot
+037800 Shot
+047800 Shot
+057800 Shot
+067800 Shot
+077800 Shot
+087800 Shot
+097800 Shot
+0A7800 Shot
+0B7800 Shot
+0C7800 Shot
+0D7800 Shot
+0E7800 Shot
+0F7800 Shot
+107800 Shot
+007900 Cane
+017900 Cane
+027900 Cane
+037900 Cane
+047900 Cane
+057900 Cane
+067900 Cane
+077900 Cane
+087900 Cane
+097900 Cane
+0A7900 Cane
+0B7900 Cane
+0C7900 Cane
+0D7900 Cane
+0E7900 Cane
+0F7900 Cane
+107900 Cane
+007A00 Rod
+017A00 Rod
+027A00 Rod
+037A00 Rod
+047A00 Rod
+057A00 Rod
+067A00 Rod
+077A00 Rod
+087A00 Rod
+097A00 Rod
+0A7A00 Rod
+0B7A00 Rod
+0C7A00 Rod
+0D7A00 Rod
+0E7A00 Rod
+0F7A00 Rod
+107A00 Rod
+007B00 Wand
+017B00 Wand
+027B00 Wand
+037B00 Wand
+047B00 Wand
+057B00 Wand
+067B00 Wand
+077B00 Wand
+087B00 Wand
+097B00 Wand
+0A7B00 Wand
+0B7B00 Wand
+0C7B00 Wand
+0D7B00 Wand
+0E7B00 Wand
+0F7B00 Wand
+107B00 Wand
+007C00 Twin
+017C00 Twin
+027C00 Twin
+037C00 Twin
+047C00 Twin
+057C00 Twin
+067C00 Twin
+077C00 Twin
+087C00 Twin
+097C00 Twin
+0A7C00 Twin
+0B7C00 Twin
+0C7C00 Twin
+0D7C00 Twin
+0E7C00 Twin
+0F7C00 Twin
+107C00 Twin
+007D00 Claw
+017D00 Claw
+027D00 Claw
+037D00 Claw
+047D00 Claw
+057D00 Claw
+067D00 Claw
+077D00 Claw
+087D00 Claw
+097D00 Claw
+0A7D00 Claw
+0B7D00 Claw
+0C7D00 Claw
+0D7D00 Claw
+0E7D00 Claw
+0F7D00 Claw
+107D00 Claw
+007E00 Bazooka
+017E00 Bazooka
+027E00 Bazooka
+037E00 Bazooka
+047E00 Bazooka
+057E00 Bazooka
+067E00 Bazooka
+077E00 Bazooka
+087E00 Bazooka
+097E00 Bazooka
+0A7E00 Bazooka
+0B7E00 Bazooka
+0C7E00 Bazooka
+0D7E00 Bazooka
+0E7E00 Bazooka
+0F7E00 Bazooka
+107E00 Bazooka
+007F00 Needle
+017F00 Needle
+027F00 Needle
+037F00 Needle
+047F00 Needle
+057F00 Needle
+067F00 Needle
+077F00 Needle
+087F00 Needle
+097F00 Needle
+0A7F00 Needle
+0B7F00 Needle
+0C7F00 Needle
+0D7F00 Needle
+0E7F00 Needle
+0F7F00 Needle
+107F00 Needle
+008000 Scythe
+018000 Scythe
+028000 Scythe
+038000 Scythe
+048000 Scythe
+058000 Scythe
+068000 Scythe
+078000 Scythe
+088000 Scythe
+098000 Scythe
+0A8000 Scythe
+0B8000 Scythe
+0C8000 Scythe
+0D8000 Scythe
+0E8000 Scythe
+0F8000 Scythe
+108000 Scythe
+008100 Hammer
+018100 Hammer
+028100 Hammer
+038100 Hammer
+048100 Hammer
+058100 Hammer
+068100 Hammer
+078100 Hammer
+088100 Hammer
+098100 Hammer
+0A8100 Hammer
+0B8100 Hammer
+0C8100 Hammer
+0D8100 Hammer
+0E8100 Hammer
+0F8100 Hammer
+108100 Hammer
+008200 Moon
+018200 Moon
+028200 Moon
+038200 Moon
+048200 Moon
+058200 Moon
+068200 Moon
+078200 Moon
+088200 Moon
+098200 Moon
+0A8200 Moon
+0B8200 Moon
+0C8200 Moon
+0D8200 Moon
+0E8200 Moon
+0F8200 Moon
+108200 Moon
+008300 Psychogun
+018300 Psychogun
+028300 Psychogun
+038300 Psychogun
+048300 Psychogun
+058300 Psychogun
+068300 Psychogun
+078300 Psychogun
+088300 Psychogun
+098300 Psychogun
+0A8300 Psychogun
+0B8300 Psychogun
+0C8300 Psychogun
+0D8300 Psychogun
+0E8300 Psychogun
+0F8300 Psychogun
+108300 Psychogun
+008400 Punch
+018400 Punch
+028400 Punch
+038400 Punch
+048400 Punch
+058400 Punch
+068400 Punch
+078400 Punch
+088400 Punch
+098400 Punch
+0A8400 Punch
+0B8400 Punch
+0C8400 Punch
+0D8400 Punch
+0E8400 Punch
+0F8400 Punch
+108400 Punch
+008500 Windmill
+018500 Windmill
+028500 Windmill
+038500 Windmill
+048500 Windmill
+058500 Windmill
+068500 Windmill
+078500 Windmill
+088500 Windmill
+098500 Windmill
+0A8500 Windmill
+0B8500 Windmill
+0C8500 Windmill
+0D8500 Windmill
+0E8500 Windmill
+0F8500 Windmill
+108500 Windmill
+008600 Harisen
+018600 Harisen
+028600 Harisen
+038600 Harisen
+048600 Harisen
+058600 Harisen
+068600 Harisen
+078600 Harisen
+088600 Harisen
+098600 Harisen
+0A8600 Harisen
+0B8600 Harisen
+0C8600 Harisen
+0D8600 Harisen
+0E8600 Harisen
+0F8600 Harisen
+108600 Harisen
+008700 Katana
+018700 Katana
+028700 Katana
+038700 Katana
+048700 Katana
+058700 Katana
+068700 Katana
+078700 Katana
+088700 Katana
+098700 Katana
+0A8700 Katana
+0B8700 Katana
+0C8700 Katana
+0D8700 Katana
+0E8700 Katana
+0F8700 Katana
+108700 Katana
+008800 J-Cutter
+018800 J-Cutter
+028800 J-Cutter
+038800 J-Cutter
+048800 J-Cutter
+058800 J-Cutter
+068800 J-Cutter
+078800 J-Cutter
+088800 J-Cutter
+098800 J-Cutter
+0A8800 J-Cutter
+0B8800 J-Cutter
+0C8800 J-Cutter
+0D8800 J-Cutter
+0E8800 J-Cutter
+0F8800 J-Cutter
+108800 J-Cutter
+008900 Musashi
+018900 Yamato
+028900 Asuka
+038900 Sange & Yasha
+008A00 Sange
+018A00 Yasha
+028A00 Kamui
+008B00 Photon Launcher
+018B00 Guilty Light
+028B00 Red Scorpio
+038B00 Phonon Maser
+008C00 Talis
+018C00 Mahu
+028C00 HItogata
+038C00 Dancing Hitogata
+048C00 Kunai
+008D00 Nug2000-Bazooka
+008E00 S-Berill's Hands #0
+018E00 S-Berill's Hands #1
+008F00 Flowen's Sword
+018F00 Flowen's Sword
+028F00 Flowen's Sword
+038F00 Flowen's Sword
+048F00 Flowen's Sword
+058F00 Flowen's Sword
+068F00 Flowen's Sword
+078F00 Flowen's Sword
+088F00 Flowen's Sword
+009000 DB's Saber
+019000 DB's Saber
+029000 DB's Saber
+039000 DB's Saber
+049000 DB's Saber
+059000 DB's Saber
+069000 DB's Saber
+079000 DB's Saber
+089000 DB's Saber
+009100 Gi Gue Bazooka
+009200 Guardianna
+009300 Viridia Card
+019300 Greenill Card
+029300 Skyly Card
+039300 Bluefull Card
+049300 Purplenum Card
+059300 Pinkal Card
+069300 Redria Card
+079300 Oran Card
+089300 Yellowboze Card
+099300 Whitill Card
+009400 Morning Glory
+009500 Partisan of Lightning
+009600 Gal Wind
+009700 Zanba
+009800 Rika's Claw
+009900 Angel Harp
+009A00 Demolition Comet
+009B00 Nei's Claw
+009C00 Rainbow Baton
+009D00 Dark Flow
+009E00 Dark Meteor
+009F00 Dark Bridge
+00A000 G-Assassin's Sabers
+00A100 Rappy's Fan
+00A200 Booma's Claw
+01A200 Gobooma's Claw
+02A200 Gigobooma's Claw
+00A300 Ruby Bullet
+00A400 Amore Rose
+00A500 Swords
+01A500 Swords
+02A500 Swords
+03A500 Swords
+04A500 Swords
+05A500 Swords
+06A500 Swords
+07A500 Swords
+08A500 Swords
+09A500 Swords
+0AA500 Swords
+0BA500 Swords
+0CA500 Swords
+0DA500 Swords
+0EA500 Swords
+0FA500 Swords
+10A500 Swords
+00A600 Launcher
+01A600 Launcher
+02A600 Launcher
+03A600 Launcher
+04A600 Launcher
+05A600 Launcher
+06A600 Launcher
+07A600 Launcher
+08A600 Launcher
+09A600 Launcher
+0AA600 Launcher
+0BA600 Launcher
+0CA600 Launcher
+0DA600 Launcher
+0EA600 Launcher
+0FA600 Launcher
+10A600 Launcher
+00A700 Cards
+01A700 Cards
+02A700 Cards
+03A700 Cards
+04A700 Cards
+05A700 Cards
+06A700 Cards
+07A700 Cards
+08A700 Cards
+09A700 Cards
+0AA700 Cards
+0BA700 Cards
+0CA700 Cards
+0DA700 Cards
+0EA700 Cards
+0FA700 Cards
+10A700 Cards
+00A800 Knuckle
+01A800 Knuckle
+02A800 Knuckle
+03A800 Knuckle
+04A800 Knuckle
+05A800 Knuckle
+06A800 Knuckle
+07A800 Knuckle
+08A800 Knuckle
+09A800 Knuckle
+0AA800 Knuckle
+0BA800 Knuckle
+0CA800 Knuckle
+0DA800 Knuckle
+0EA800 Knuckle
+0FA800 Knuckle
+10A800 Knuckle
+00A900 Axe
+01A900 Axe
+02A900 Axe
+03A900 Axe
+04A900 Axe
+05A900 Axe
+06A900 Axe
+07A900 Axe
+08A900 Axe
+09A900 Axe
+0AA900 Axe
+0BA900 Axe
+0CA900 Axe
+0DA900 Axe
+0EA900 Axe
+0FA900 Axe
+10A900 Axe
+00AA00 Slicer of Fanatic
+00AB00 Lame d'Argent
+00AC00 Excalibur
+00AD00 Rage de Feu
+01AD00 Rage de Feu
+02AD00 Rage de Feu
+03AD00 Rage de Feu
+00AE00 Daisy Chain
+00AF00 Ophelie Seize
+00B000 Mille Marteaux
+00B100 Le Cogneur
+00B200 Commander Blade
+00B300 Vivienne
+00B400 Kusanagi
+00B500 Sacred Duster
+00B600 Guren
+00B700 Shouren
+00B800 Jizai
+00B900 Flamberge
+00BA00 Yunchang
+00BB00 Snake Spire
+00BC00 Flapjack Flapper
+00BD00 Getsugasan
+00BE00 Maguwa
+00BF00 Heaven Striker
+00C000 Cannon Rouge
+00C100 Meteor Rouge
+00C200 Solferino
+00C300 Clio
+00C400 Siren Glass Hammer
+00C500 Glide Divine
+00C600 Shichishito
+00C700 Murasame
+00C800 Daylight Scar
+00C900 Decalog
+00CA00 5th Anniv. Blade
+00CB00 Tyrell's Parasol
+00CC00 Akiko's Cleaver
+00CD00 Tanegashima
+00CE00 Tree Clippers
+00CF00 Nice Shot
+00D000 Unused Weapon38
+00D100 Unused Weapon39
+00D200 Ano Bazooka
+00D300 Synthesizer
+00D400 Bamboo Spear
+00D500 Kan'ei Tsuho
+00D600 Jitte
+00D700 Butterfly Net
+00D800 Syringe
+00D900 Battledore
+00DA00 Racket
+00DB00 Hammer
+00DC00 Great Bouquet
+00DD00 TypeSA/Saber
+00DE00 TypeSL/Saber
+01DE00 TypeSL/Slicer
+02DE00 TypeSL/Claw
+03DE00 TypeSL/Katana
+00DF00 TypeJS/Saber
+01DF00 TypeJS/Slicer
+02DF00 TypeJS/J-Sword
+00E000 TypeSW/Sword
+01E000 TypeSW/Slicer
+02E000 TypeSW/J-Sword
+00E100 TypeRO/Sword
+01E100 TypeRO/Halbert
+02E100 TypeRO/Rod
+00E200 TypeBL/Blade
+00E300 TypeKN/Blade
+01E300 TypeKN/Claw
+00E400 TypeHA/Halbert
+01E400 TypeHA/Rod
+00E500 TypeDS/D.Saber
+01E500 TypeDS/Rod
+02E500 TypeDS
+00E600 TypeCL/Claw
+00E700 TypeSS/Sw
+00E800 TypeGU/Hand
+01E800 TypeGU/Mechgun
+00E900 TypeRI/Rifle
+00EA00 TypeME/Mechgun
+00EB00 TypeSH/Shot
+00EC00 TypeWA/Wand
+00ED00 ????
+000201 Barrier
+010201 Shield
+020201 Core Shield
+030201 Giga Shield
+040201 Soul Barrier
+050201 Hard Shield
+060201 Brave Barrier
+070201 Solid Shield
+080201 Flame Barrier
+090201 Plasma Barrier
+0A0201 Freeze Barrier
+0B0201 Psychic Barrier
+0C0201 General Shield
+0D0201 Protect Barrier
+0E0201 Glorious Shield
+0F0201 Imperial Barrier
+100201 Guardian Shield
+110201 Divinity Barrier
+120201 Ultimate Shield
+130201 Spiritual Shield
+140201 Celestial Shield
+150201 Invisible Guard
+160201 Sacred Guard
+170201 S-Parts ver1.16
+180201 S-Parts ver2.01
+190201 Light Relief
+1A0201 Shield of Delsaber
+1B0201 Force Wall
+1C0201 Ranger Wall
+1D0201 Hunter Wall
+1E0201 Attribute Wall
+1F0201 Secret Gear
+200201 Combat Gear
+210201 Proto Regene Gear
+220201 Regenerate Gear
+230201 Regene Gear Adv.
+240201 Flowen's Shield
+250201 Custom Barrier ver.OO
+260201 DB's Shield
+270201 Red Ring
+280201 Tripolic Shield
+290201 Standstill Shield
+2A0201 Safety Heart
+2B0201 Kasami Bracer
+2C0201 Gods Shield "Suzaku"
+2D0201 Gods Shield "Genbu"
+2E0201 Gods Shield "Byakko"
+2F0201 Gods Shield "Seiryu"
+300201 Hunter's Shell
+310201 Rico's Glasses
+320201 Rico's Earring
+330201 Blue Ring
+340201 Barrier
+350201 Secure Feet
+360201 Barrier
+370201 Barrier
+380201 Barrier
+390201 Barrier
+3A0201 Resta Merge
+3B0201 Anti Merge
+3C0201 Shifta Merge
+3D0201 Deband Merge
+3E0201 Foie Merge
+3F0201 Gifoie Merge
+400201 Rafoie Merge
+410201 Red Merge
+420201 Barta Merge
+430201 Gibarta Merge
+440201 Rabarta Merge
+450201 Blue Merge
+460201 Zonde Merge
+470201 Gizonde Merge
+480201 Razonde Merge
+490201 Yellow Merge
+4A0201 Recovery Barrier
+4B0201 Assist Barrier
+4C0201 Red Barrier
+4D0201 Blue Barrier
+4E0201 Yellow Barrier
+4F0201 Weapons Gold Shield
+500201 Black Gear
+510201 Works Guard
+520201 Ragol Ring
+530201 Blue Ring
+540201 Blue Ring
+550201 Blue Ring
+560201 Blue Ring
+570201 Blue Ring
+580201 Blue Ring
+590201 Blue Ring
+5A0201 Blue Ring
+5B0201 Green Ring
+5C0201 Green Ring
+5D0201 Green Ring
+5E0201 Green Ring
+5F0201 Green Ring
+600201 Green Ring
+610201 Green Ring
+620201 Green Ring
+630201 Yellow Ring
+640201 Yellow Ring
+650201 Yellow Ring
+660201 Yellow Ring
+670201 Yellow Ring
+680201 Yellow Ring
+690201 Yellow Ring
+6A0201 Yellow Ring
+6B0201 Purple Ring
+6C0201 Purple Ring
+6D0201 Purple Ring
+6E0201 Purple Ring
+6F0201 Purple Ring
+700201 Purple Ring
+710201 Purple Ring
+720201 Purple Ring
+730201 Anti-Dark Ring
+740201 White Ring
+750201 White Ring
+760201 White Ring
+770201 White Ring
+780201 White Ring
+790201 White Ring
+7A0201 White Ring
+7B0201 Anti-Light Ring
+7C0201 Black Ring
+7D0201 Black Ring
+7E0201 Black Ring
+7F0201 Black Ring
+800201 Black Ring
+810201 Black Ring
+820201 Black Ring
+830201 Weapons Silver Shield
+840201 Weapons Copper Shield
+850201 Gratia
+860201 Tripolic Reflector
+870201 Striker Plus
+880201 Regenerate Gear B.P.
+890201 Rupika
+8A0201 Yata Mirror
+8B0201 Bunny Ears
+8C0201 Cat Ears
+8D0201 Three Seals
+8E0201 Gods Shield "Kouryu"
+8F0201 DF Shield
+900201 From the Depths
+910201 De Rol Le Shield
+920201 Honeycomb Reflector
+930201 Epsiguard
+940201 Angel Ring
+950201 Union Guard
+960201 Union Guard
+970201 Union Guard
+980201 Union Guard
+990201 Stink Shield
+9A0201 UNKNOWN_B
+9B0201 Genpei
+9C0201 Genpei
+9D0201 Genpei
+9E0201 Genpei
+9F0201 Genpei
+A00201 Genpei
+A10201 Genpei
+A20201 Genpei
+A30201 Genpei
+A40201 Genpei
+A50201 ????
+000101 Frame
+010101 Armor
+020101 Psy Armor
+030101 Giga Frame
+040101 Soul Frame
+050101 Cross Armor
+060101 Solid Frame
+070101 Brave Armor
+080101 Hyper Frame
+090101 Grand Armor
+0A0101 Shock Frame
+0B0101 King's Frame
+0C0101 Dragon Frame
+0D0101 Absorb Armor
+0E0101 Protect Frame
+0F0101 General Armor
+100101 Perfect Frame
+110101 Valiant Frame
+120101 Imperial Armor
+130101 Holiness Armor
+140101 Guardian Armor
+150101 Divinity Armor
+160101 Ultimate Frame
+170101 Celestial Armor
+180101 Hunter Field
+190101 Ranger Field
+1A0101 Force Field
+1B0101 Revival Garment
+1C0101 Spirit Garment
+1D0101 Stink Frame
+1E0101 D-Parts ver1.01
+1F0101 D-Parts ver2.10
+200101 Parasite Wear: De Rol
+210101 Parasite Wear: Nelgal
+220101 Parasite Wear: Vajulla
+230101 Sense Plate
+240101 Graviton Plate
+250101 Attribute Plate
+260101 Flowen's Frame
+270101 Custom Frame ver.OO
+280101 DB's Armor
+290101 Guard Wave
+2A0101 DF Field
+2B0101 Luminous Field
+2C0101 Chu Chu Fever
+2D0101 Love Heart
+2E0101 Flame Garment
+2F0101 Virus Armor: Lafuteria
+300101 Brightness Circle
+310101 Aura Field
+320101 Electro Frame
+330101 Sacred Cloth
+340101 Smoking Plate
+350101 Star Cuirass
+360101 Black Hound Cuirass
+370101 Morning Prayer
+380101 Black Odoshi Domaru
+390101 Red Odoshi Domaru
+3A0101 Black Odoshi Red Nimaidou
+3B0101 Blue Odoshi Violet Nimaidou
+3C0101 Dirty Lifejacket
+3D0101 Kroe's Sweater
+3E0101 Wedding Dress
+3F0101 Sonic Team Armor
+400101 Red Coat
+410101 Thirteen
+420101 Mother Garb
+430101 Mother Garb+
+440101 Dress Plate
+450101 Sweetheart
+460101 Ignition Cloak
+470101 Congeal Cloak
+480101 Tempest Cloak
+490101 Cursed Cloak
+4A0101 Select Cloak
+4B0101 Spirit Cuirass
+4C0101 Revival Cuirass
+4D0101 Alliance Uniform
+4E0101 Officer Uniform
+4F0101 Commander Uniform
+500101 Crimson Coat
+510101 Infantry Gear
+520101 Lieutenant Gear
+530101 Infantry Mantle
+540101 Lieutenant Mantle
+550101 Union Field
+560101 Samurai Armor
+570101 Stealth Suit
+580101 ????
+000301 Knight/Power
+010301 General/Power
+020301 Ogre/Power
+030301 God/Power
+040301 Priest/Mind
+050301 General/Mind
+060301 Angel/Mind
+070301 God/Mind
+080301 Marksman/Arm
+090301 General/Arm
+0A0301 Elf/Arm
+0B0301 God/Arm
+0C0301 Thief/Legs
+0D0301 General/Legs
+0E0301 Elf/Legs
+0F0301 God/Legs
+100301 Digger/HP
+110301 General/HP
+120301 Dragon/HP
+130301 God/HP
+140301 Magician/TP
+150301 General/TP
+160301 Angel/TP
+170301 God/TP
+180301 Warrior/Body
+190301 General/Body
+1A0301 Metal/Body
+1B0301 God/Body
+1C0301 Angel/Luck
+1D0301 God/Luck
+1E0301 Master/Ability
+1F0301 Hero/Ability
+200301 God/Ability
+210301 Resist/Fire
+220301 Resist/Flame
+230301 Resist/Burning
+240301 Resist/Cold
+250301 Resist/Freeze
+260301 Resist/Blizzard
+270301 Resist/Shock
+280301 Resist/Thunder
+290301 Resist/Storm
+2A0301 Resist/Light
+2B0301 Resist/Saint
+2C0301 Resist/Holy
+2D0301 Resist/Dark
+2E0301 Resist/Evil
+2F0301 Resist/Devil
+300301 All/Resist
+310301 Super/Resist
+320301 Perfect/Resist
+330301 HP/Restorate
+340301 HP/Generate
+350301 HP/Revival
+360301 TP/Restorate
+370301 TP/Generate
+380301 TP/Revival
+390301 PB/Amplifier
+3A0301 PB/Generate
+3B0301 PB/Create
+3C0301 Wizard/Technique
+3D0301 Devil/Technique
+3E0301 God/Technique
+3F0301 General/Battle
+400301 Devil/Battle
+410301 God/Battle
+420301 Cure/Poison
+430301 Cure/Paralysis
+440301 Cure/Slow
+450301 Cure/Confuse
+460301 Cure/Freeze
+470301 Cure/Shock
+480301 Yasakani Magatama
+490301 V101
+4A0301 V501
+4B0301 V502
+4C0301 V801
+4D0301 Limiter
+4E0301 Adept
+4F0301 Swordsman Lore
+500301 Proof of Sword-Saint
+510301 Smartlink
+520301 Divine Protection
+530301 Heavenly/Battle
+540301 Heavenly/Power
+550301 Heavenly/Mind
+560301 Heavenly/Arms
+570301 Heavenly/Legs
+580301 Heavenly/Body
+590301 Heavenly/Luck
+5A0301 Heavenly/Ability
+5B0301 Centurion/Ability
+5C0301 Friend Ring
+5D0301 Heavenly/HP
+5E0301 Heavenly/TP
+5F0301 Heavenly/Resist
+600301 Heavenly/Technique
+610301 HP/Ressurection
+620301 TP/Ressurection
+630301 PB/Increase
+640301 ????
+000003 Monomate
+010003 Dimate
+020003 Trimate
+000103 Monofluid
+010103 Difluid
+020103 Trifluid
+000203 disk
+010203 disk
+020203 disk
+030203 disk
+040203 disk
+050203 disk
+060203 disk
+070203 disk
+080203 disk
+090203 disk
+0A0203 disk
+0B0203 disk
+0C0203 disk
+0D0203 disk
+0E0203 disk
+0F0203 disk
+100203 disk
+110203 disk
+120203 disk
+000303 Sol Atomizer
+000403 Moon Atomizer
+000503 Star Atomizer
+000603 Antidote
+010603 Antiparalysis
+000703 Telepipe
+000803 Trap Vision
+000903 Scape Doll
+000A03 Monogrinder
+010A03 Digrinder
+020A03 Trigrinder
+000B03 Power Material
+010B03 Mind Material
+020B03 Evade Material
+030B03 HP Material
+040B03 TP Material
+050B03 Def Material
+060B03 Luck Material
+000C03 Cell of Mag 502
+010C03 Cell of Mag 213
+020C03 Parts of RoboChao
+030C03 Heart of Opa Opa
+040C03 Heart of Pian
+050C03 Heart of Chao
+000D03 Sorcerer's Right Arm
+010D03 S-beat's Arms
+020D03 P-arm's Arms
+030D03 Delsaber's Right Arm
+040D03 Bringer's Right Arm
+050D03 Delsaber's Left Arm
+060D03 S-red's Arms
+070D03 Dragon's Claw
+080D03 Hildebear's Head
+090D03 Hildeblue's Head
+0A0D03 Parts of Baranz
+0B0D03 Belra's Right Arm
+0C0D03 Gi Gue's body
+0D0D03 Sinow Berill's Arms
+0E0D03 Grass Assassin's Arms
+0F0D03 Booma's Right Arm
+100D03 Gobooma's Right Arm
+110D03 Gigobooma's Right Arm
+120D03 Gal Gryphon's Wing
+130D03 Rappy's Wing
+140D03 Cladding of Epsilon
+150D03 De Rol Le Shell
+000E03 Berill Photon
+010E03 Parasitic gene "Flow"
+020E03 Magic Stone "Iritista"
+030E03 Blue-black stone
+040E03 Syncesta
+050E03 Magic Water
+060E03 Parasitic cell Type D
+070E03 magic rock "Heart Key"
+080E03 magic rock "Moola"
+090E03 Star Amplifier
+0A0E03 Book of Hitogata
+0B0E03 Heart of Chu Chu
+0C0E03 Parts of Egg Blaster
+0D0E03 Heart of Angel
+0E0E03 Heart of Devil
+0F0E03 Kit of Hamburger
+100E03 Panther's Spirit
+110E03 Kit of Mark III
+120E03 Kit of Master System
+130E03 Kit of Genesis
+140E03 Kit of Sega Saturn
+150E03 Kit of Dreamcast
+160E03 Amplifier of Resta
+170E03 Amplifier of Anti
+180E03 Amplifier of Shifta
+190E03 Amplifier of Deband
+1A0E03 Amplifier of Foie
+1B0E03 Amplifier of Gifoie
+1C0E03 Amplifier of Rafoie
+1D0E03 Amplifier of Barta
+1E0E03 Amplifier of Gibarta
+1F0E03 Amplifier of Rabarta
+200E03 Amplifier of Zonde
+210E03 Amplifier of Gizonde
+220E03 Amplifier of Razonde
+230E03 Amplifier of Red
+240E03 Amplifier of Blue
+250E03 Amplifier of Yellow
+260E03 Heart of Kapu Kapu
+270E03 Photon Booster
+000F03 AddSlot
+001003 Photon Drop
+011003 Photon Sphere
+021003 Photon Crystal
+031003 Secret Ticket
+041003 Photon Ticket
+001103 Book of Katana 1
+011103 Book of Katana 2
+021103 Book of Katana 3
+001203 Weapons Bronze Badge
+011203 Weapons Silver Badge
+021203 Weapons Gold Badge
+031203 Weapons Crystal Badge
+041203 Weapons Steel Badge
+051203 Weapons Aluminum Badge
+061203 Weapons Leather Badge
+071203 Weapons Bone Badge
+081203 Letter of appreciation
+091203 Item Ticket
+0A1203 Valentine's Chocolate
+0B1203 New Year's Card
+0C1203 Christmas Card
+0D1203 Birthday Card
+0E1203 Proof of Sonic Team
+0F1203 Special Event Ticket
+101203 Flower Bouquet
+111203 Cake
+121203 Accessories
+131203 Mr. Naka's Business Card
+001303 Present
+001403 Chocolate
+011403 Candy
+021403 Cake
+031403 Weapons Silver Badge
+041403 Weapons Gold Badge
+051403 Weapons Crystal Badge
+061403 Weapons Steel Badge
+071403 Weapons Aluminum Badge
+081403 Weapons Leather Badge
+091403 Weapons Bone Badge
+0A1403 Bouquet
+0B1403 Decoction
+001503 Christmas Present
+011503 Easter Egg
+021503 Jack-O'-Lantern
+001603 Disk Vol.1 "Wedding March"
+011603 Disk Vol.2 "Day Light"
+021603 Disk Vol.3 "Burning Rangers"
+031603 Disk Vol.4 "Open Your Heart"
+041603 Disk Vol.5 "Live & Learn"
+051603 Disk Vol.6 "NiGHTS"
+061603 Disk Vol.7 "Ending Theme (Piano ver.)"
+071603 Disk Vol.8 "Heart to Heart"
+081603 Disk Vol.9 "Strange Blue"
+091603 Disk Vol.10 "Reunion System"
+0A1603 Disk Vol.11 "Pinnacles"
+0B1603 Disk Vol.12 "Fight inside the Spaceship"
+001703 Hunters Report
+011703 Hunters Report
+021703 Hunters Report
+031703 Hunters Report
+041703 Hunters Report
+001803 Tablet
+011803 Unused Item01
+021803 Dragon Scale
+031803 Heaven Striker Coat
+041803 Pioneer Parts
+051803 Amitie's Memo
+061803 Heart of Morolian
+071803 Rappy's Beak
+081803 Yahoo!'s engine
+091803 D-Photon Core
+0A1803 Liberta Kit
+0B1803 Cell of Mag 0503
+0C1803 Cell of Mag 0504
+0D1803 Cell of Mag 0505
+0E1803 Cell of Mag 0506
+0F1803 Cell of Mag 0507
+001903 Team Points 500
+011903 Team Points 1000
+021903 Team Points 5000
+031903 Team Points 10000
+001A03 ????
+000002 Mag
+000102 Varuna
+000202 Mitra
+000302 Surya
+000402 Vayu
+000502 Varaha
+000602 Kama
+000702 Ushasu
+000802 Apsaras
+000902 Kumara
+000A02 Kaitabha
+000B02 Tapas
+000C02 Bhirava
+000D02 Kalki
+000E02 Rudra
+000F02 Marutah
+001002 Yaksa
+001102 Sita
+001202 Garuda
+001302 Nandin
+001402 Ashvinau
+001502 Ribhava
+001602 Soma
+001702 Ila
+001802 Durga
+001902 Vritra
+001A02 Namuci
+001B02 Sumba
+001C02 Naga
+001D02 Pitri
+001E02 Kabanda
+001F02 Ravana
+002002 Marica
+002102 Soniti
+002202 Preta
+002302 Andhaka
+002402 Bana
+002502 Naraka
+002602 Madhu
+002702 Churel
+002802 Robochao
+002902 Opa-Opa
+002A02 Pian
+002B02 Chao
+002C02 Chu Chu
+002D02 Kapu Kapu
+002E02 Angel's Wing
+002F02 Devil's Wing
+003002 Elenor
+003102 Mark III
+003202 Master System
+003302 Genesis
+003402 Sega Saturn
+003502 Dreamcast
+003602 Hamburger
+003702 Panzer's Tail
+003802 Devil's Tail
+003902 Deva
+003A02 Rati
+003B02 Savitri
+003C02 Rukmin
+003D02 Pushan
+003E02 Diwari
+003F02 Sato
