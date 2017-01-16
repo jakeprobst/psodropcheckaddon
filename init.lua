@@ -174,11 +174,7 @@ end
 
 
 local function getid(item)
-   local i1 = item[1]
-   local i2 = item[2]
-   local i3 = item[3]
-   --return item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
-   return i1 * math.pow(2, 16) + i2 * math.pow(2, 8) + i3
+   return item[1] * math.pow(2, 16) + item[2] * math.pow(2, 8) + item[3]
 end
 
 local function wepstring(item)
@@ -259,7 +255,7 @@ local function magstring(item)
 end
 
 local function techstring(item)
-   local level = item[1]+1
+   local level = item[3]+1
    local techid = item[5]
 
    return string.format("%s %d", techlist[techid], level)
