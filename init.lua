@@ -6,6 +6,9 @@ local itemlist = {}
 local speciallist = {}
 local techlist = {}
 
+local init
+local present
+
 local function loadtable(file)
    local t = {}
    for line in io.lines(file) do
@@ -20,7 +23,7 @@ end
 
 
 
-local init = function()
+init = function()
    itemlist = loadtable(itemfile)
    setmetatable(itemlist, {
                    __index = function(tbl, key)
@@ -36,8 +39,9 @@ local init = function()
    speciallist = loadtable(specialfile)
    return {
       name = "DropChecker",
-      version = "r3",
-      author = "jake"
+      version = "r4",
+      author = "jake",
+      present = present
    }
 end
 
@@ -287,7 +291,7 @@ end
 local prevmaxy = 0
 local itercount = 0
 
-local present = function()
+present = function()
    imgui.Begin("Drop Checker")
 
    local sy = imgui.GetScrollY()
@@ -330,15 +334,10 @@ local present = function()
    imgui.End()
 end
 
-pso.on_init(init)
-pso.on_present(present)
---pso.on_key_pressed(key_pressed)
---pso.on_key_released(key_released)
-
 -- This isn't necessary, but may be useful if you want to use another addons'
 -- code; you can retrieve an addon's module with require('AddonName').
 return {
-   init = init,
-   present = present,
-  --key_pressed = key_pressed
+   __addon = {
+      init = init
+   },
 }
